@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260511233648RF6T4T</value>
+    <value>20260512003016K4ZTN9</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>202605112336489VTP03</value>
+    <value>20260512003016K381RG</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -70,7 +70,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1778534635960</value>
+    <value>1778538175891</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -111,7 +111,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mp1plnxs-2l1snycjy</odePageId>
+  <odePageId>page-mp1rpjd3-21g76bnh2</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Página nueva</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -149,8 +149,8 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp1plnxt-af91ytlls</odePageId>
-  <odeParentPageId>page-mp1plnxs-2l1snycjy</odeParentPageId>
+  <odePageId>page-mp1rpjd4-5u1kj4qtn</odePageId>
+  <odeParentPageId>page-mp1rpjd3-21g76bnh2</odeParentPageId>
   <pageName>SOMOS LOS GUARDIANES DEL PLANETA</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -185,7 +185,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp1plnxt-af91ytlls</odePageId>
+      <odePageId>page-mp1rpjd4-5u1kj4qtn</odePageId>
       <odeBlockId>block-1778181222697-cbgpmdqvt</odeBlockId>
       <blockName>Qué le pasa al Medioambiente</blockName>
       <iconName>ask</iconName>
@@ -214,7 +214,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp1plnxt-af91ytlls</odePageId>
+          <odePageId>page-mp1rpjd4-5u1kj4qtn</odePageId>
           <odeBlockId>block-1778181222697-cbgpmdqvt</odeBlockId>
           <odeIdeviceId>idevice-1778181222694-xx8pygigr</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -250,7 +250,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mp1plnxt-af91ytlls</odePageId>
+      <odePageId>page-mp1rpjd4-5u1kj4qtn</odePageId>
       <odeBlockId>block-1778262559661-5xfo3piti</odeBlockId>
       <blockName>Puzle</blockName>
       <iconName>pieces</iconName>
@@ -279,7 +279,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp1plnxt-af91ytlls</odePageId>
+          <odePageId>page-mp1rpjd4-5u1kj4qtn</odePageId>
           <odeBlockId>block-1778262559661-5xfo3piti</odeBlockId>
           <odeIdeviceId>idevice-1778262559660-1cm6qlw7y</odeIdeviceId>
           <odeIdeviceTypeName>puzzle</odeIdeviceTypeName>
@@ -306,8 +306,8 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp1plnxw-3s2x1f2fy</odePageId>
-  <odeParentPageId>page-mp1plnxs-2l1snycjy</odeParentPageId>
+  <odePageId>page-mp1rpjd7-f71o9q1c6</odePageId>
+  <odeParentPageId>page-mp1rpjd3-21g76bnh2</odeParentPageId>
   <pageName>Observamos el Planeta</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -342,7 +342,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp1plnxw-3s2x1f2fy</odePageId>
+      <odePageId>page-mp1rpjd7-f71o9q1c6</odePageId>
       <odeBlockId>block-1778322923345-12a9rpyjs</odeBlockId>
       <blockName>Clasifica</blockName>
       <iconName>competencies</iconName>
@@ -371,7 +371,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp1plnxw-3s2x1f2fy</odePageId>
+          <odePageId>page-mp1rpjd7-f71o9q1c6</odePageId>
           <odeBlockId>block-1778322923345-12a9rpyjs</odeBlockId>
           <odeIdeviceId>idevice-1778322923342-a9t14f3il</odeIdeviceId>
           <odeIdeviceTypeName>classify</odeIdeviceTypeName>
@@ -409,8 +409,8 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp1plnxx-dlru03o4p</odePageId>
-  <odeParentPageId>page-mp1plnxs-2l1snycjy</odeParentPageId>
+  <odePageId>page-mp1rpjd8-pplhu4r3a</odePageId>
+  <odeParentPageId>page-mp1rpjd3-21g76bnh2</odeParentPageId>
   <pageName>Salvando el Planeta</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -445,7 +445,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp1plnxx-dlru03o4p</odePageId>
+      <odePageId>page-mp1rpjd8-pplhu4r3a</odePageId>
       <odeBlockId>block-1778268062729-4bhex7lt6</odeBlockId>
       <blockName>Escuchad y mirad atentos</blockName>
       <iconName>video</iconName>
@@ -474,7 +474,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp1plnxx-dlru03o4p</odePageId>
+          <odePageId>page-mp1rpjd8-pplhu4r3a</odePageId>
           <odeBlockId>block-1778268062729-4bhex7lt6</odeBlockId>
           <odeIdeviceId>idevice-1778268062726-tcf81vuui</odeIdeviceId>
           <odeIdeviceTypeName>quick-questions-video</odeIdeviceTypeName>
@@ -505,8 +505,8 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp1plnxx-3p1tthfnj</odePageId>
-  <odeParentPageId>page-mp1plnxs-2l1snycjy</odeParentPageId>
+  <odePageId>page-mp1rpjd8-dfizli7um</odePageId>
+  <odeParentPageId>page-mp1rpjd3-21g76bnh2</odeParentPageId>
   <pageName>Cuidando el Planeta desde casa</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -541,7 +541,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp1plnxx-3p1tthfnj</odePageId>
+      <odePageId>page-mp1rpjd8-dfizli7um</odePageId>
       <odeBlockId>block-1778328569906-9sw7bwz0n</odeBlockId>
       <blockName>Teniendo las ideas claras</blockName>
       <iconName>technology</iconName>
@@ -570,7 +570,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp1plnxx-3p1tthfnj</odePageId>
+          <odePageId>page-mp1rpjd8-dfizli7um</odePageId>
           <odeBlockId>block-1778328569906-9sw7bwz0n</odeBlockId>
           <odeIdeviceId>idevice-1778328569902-k734uzssx</odeIdeviceId>
           <odeIdeviceTypeName>hidden-image</odeIdeviceTypeName>
@@ -602,8 +602,8 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp1plnxy-vcdz4l0xi</odePageId>
-  <odeParentPageId>page-mp1plnxs-2l1snycjy</odeParentPageId>
+  <odePageId>page-mp1rpjd8-bcq09cu7v</odePageId>
+  <odeParentPageId>page-mp1rpjd3-21g76bnh2</odeParentPageId>
   <pageName>Cuidando el Planeta con nuestros amigos</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -638,7 +638,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp1plnxy-vcdz4l0xi</odePageId>
+      <odePageId>page-mp1rpjd8-bcq09cu7v</odePageId>
       <odeBlockId>block-1778412826592-nqbvfxk4n</odeBlockId>
       <blockName>Detectives Guardianes</blockName>
       <iconName>observe</iconName>
@@ -667,7 +667,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp1plnxy-vcdz4l0xi</odePageId>
+          <odePageId>page-mp1rpjd8-bcq09cu7v</odePageId>
           <odeBlockId>block-1778412826592-nqbvfxk4n</odeBlockId>
           <odeIdeviceId>idevice-1778412826590-r8b852f8q</odeIdeviceId>
           <odeIdeviceTypeName>magnifier</odeIdeviceTypeName>
@@ -724,7 +724,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mp1plnxy-vcdz4l0xi</odePageId>
+      <odePageId>page-mp1rpjd8-bcq09cu7v</odePageId>
       <odeBlockId>block-1778356329763-mvzzgwzv8</odeBlockId>
       <blockName>Poniendo orden en las ideas</blockName>
       <iconName>letters</iconName>
@@ -753,7 +753,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp1plnxy-vcdz4l0xi</odePageId>
+          <odePageId>page-mp1rpjd8-bcq09cu7v</odePageId>
           <odeBlockId>block-1778356329763-mvzzgwzv8</odeBlockId>
           <odeIdeviceId>idevice-1778356329762-2x0jke1t7</odeIdeviceId>
           <odeIdeviceTypeName>relate</odeIdeviceTypeName>
@@ -784,8 +784,8 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp1plnxy-r9pa1a9x7</odePageId>
-  <odeParentPageId>page-mp1plnxs-2l1snycjy</odeParentPageId>
+  <odePageId>page-mp1rpjd9-z36n0ye5b</odePageId>
+  <odeParentPageId>page-mp1rpjd3-21g76bnh2</odeParentPageId>
   <pageName>GUARDIANES INFORMADOS Y JUNTOS PODEMOS</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -820,7 +820,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp1plnxy-r9pa1a9x7</odePageId>
+      <odePageId>page-mp1rpjd9-z36n0ye5b</odePageId>
       <odeBlockId>block-1778353476717-armzzb0aq</odeBlockId>
       <blockName>Un poco de cada hace mucho</blockName>
       <iconName>agreement</iconName>
@@ -849,7 +849,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp1plnxy-r9pa1a9x7</odePageId>
+          <odePageId>page-mp1rpjd9-z36n0ye5b</odePageId>
           <odeBlockId>block-1778353476717-armzzb0aq</odeBlockId>
           <odeIdeviceId>idevice-1778353476715-02d2rpkf6</odeIdeviceId>
           <odeIdeviceTypeName>beforeafter</odeIdeviceTypeName>
@@ -882,8 +882,8 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp1plnxz-m28rpwzmv</odePageId>
-  <odeParentPageId>page-mp1plnxs-2l1snycjy</odeParentPageId>
+  <odePageId>page-mp1rpjda-bdjk2mjy7</odePageId>
+  <odeParentPageId>page-mp1rpjd3-21g76bnh2</odeParentPageId>
   <pageName>La Información ayudará a nuestra Misión</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -918,7 +918,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp1plnxz-m28rpwzmv</odePageId>
+      <odePageId>page-mp1rpjda-bdjk2mjy7</odePageId>
       <odeBlockId>block-1778402124585-vpxhvhcd3</odeBlockId>
       <blockName>Guardianes Maestros</blockName>
       <iconName>video</iconName>
@@ -947,7 +947,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp1plnxz-m28rpwzmv</odePageId>
+          <odePageId>page-mp1rpjda-bdjk2mjy7</odePageId>
           <odeBlockId>block-1778402124585-vpxhvhcd3</odeBlockId>
           <odeIdeviceId>idevice-1778402124583-08tdad19m</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -983,7 +983,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp1plny0-qta4r9xqb</odePageId>
+  <odePageId>page-mp1rpjdb-huivm5l2o</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Guía Didáctica</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -1019,7 +1019,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp1plny0-qta4r9xqb</odePageId>
+      <odePageId>page-mp1rpjdb-huivm5l2o</odePageId>
       <odeBlockId>block-1778359134977-l9k652a9f</odeBlockId>
       <blockName>Temática del Proyecto</blockName>
       <iconName>book</iconName>
@@ -1048,7 +1048,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp1plny0-qta4r9xqb</odePageId>
+          <odePageId>page-mp1rpjdb-huivm5l2o</odePageId>
           <odeBlockId>block-1778359134977-l9k652a9f</odeBlockId>
           <odeIdeviceId>idevice-1778359134975-lk2oprvs8</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1075,7 +1075,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mp1plny0-qta4r9xqb</odePageId>
+      <odePageId>page-mp1rpjdb-huivm5l2o</odePageId>
       <odeBlockId>block-1778360991272-t99yhro32</odeBlockId>
       <blockName>Curación de Contenidos</blockName>
       <iconName>guide</iconName>
@@ -1104,15 +1104,15 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp1plny0-qta4r9xqb</odePageId>
+          <odePageId>page-mp1rpjdb-huivm5l2o</odePageId>
           <odeBlockId>block-1778360991272-t99yhro32</odeBlockId>
           <odeIdeviceId>idevice-1778360991271-nkdz1auif</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><a href="padlet " cuidamos="" el="" planeta="" apoy="" ndonos="" en="" la="" tecnolog="" a="" title="">padlet "Cuidamos el planeta apoyándonos en la tecnología"</a></p>
-<p><a href="https://padlet.com/mfonriv305/cuidamos-el-planeta-apoyandonos-en-la-tecnologia-5mvdae85di6wcoz3" title="">Symbaloo para la recopilación de mis herramientas</a></p>
+    <p><a href="https://padlet.com/mfonriv305/cuidamos-el-planeta-apoyandonos-en-la-tecnologia-5mvdae85di6wcoz3" cuidamos="" el="" planeta="" apoy="" ndonos="" en="" la="" tecnolog="" a="" title="">padlet "Cuidamos el planeta apoyándonos en la tecnología"</a></p>
+<p><a href="https://www.symbaloo.com/home/mix/13eP2K2LRf" title="">Symbaloo para la recopilación de mis herramientas</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778360991271-nkdz1auif","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"padlet \" cuidamos=\"\" el=\"\" planeta=\"\" apoy=\"\" ndonos=\"\" en=\"\" la=\"\" tecnolog=\"\" a=\"\" title=\"\">padlet \"Cuidamos el planeta apoyándonos en la tecnología\"</a></p>\n<p><a href=\"https://padlet.com/mfonriv305/cuidamos-el-planeta-apoyandonos-en-la-tecnologia-5mvdae85di6wcoz3\" title=\"\">Symbaloo para la recopilación de mis herramientas</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778360991271-nkdz1auif","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://padlet.com/mfonriv305/cuidamos-el-planeta-apoyandonos-en-la-tecnologia-5mvdae85di6wcoz3\" cuidamos=\"\" el=\"\" planeta=\"\" apoy=\"\" ndonos=\"\" en=\"\" la=\"\" tecnolog=\"\" a=\"\" title=\"\">padlet \"Cuidamos el planeta apoyándonos en la tecnología\"</a></p>\n<p><a href=\"https://www.symbaloo.com/home/mix/13eP2K2LRf\" title=\"\">Symbaloo para la recopilación de mis herramientas</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1132,7 +1132,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mp1plny0-qta4r9xqb</odePageId>
+      <odePageId>page-mp1rpjdb-huivm5l2o</odePageId>
       <odeBlockId>block-1778360433899-huxgms2wz</odeBlockId>
       <blockName>Criterios de Evaluación</blockName>
       <iconName>observe</iconName>
@@ -1161,7 +1161,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp1plny0-qta4r9xqb</odePageId>
+          <odePageId>page-mp1rpjdb-huivm5l2o</odePageId>
           <odeBlockId>block-1778360433899-huxgms2wz</odeBlockId>
           <odeIdeviceId>idevice-1778360433898-x0wd58f0k</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1195,7 +1195,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mp1plny0-qta4r9xqb</odePageId>
+      <odePageId>page-mp1rpjdb-huivm5l2o</odePageId>
       <odeBlockId>block-1778361342633-w47wmjsov</odeBlockId>
       <blockName>Licencias y Autorías</blockName>
       <iconName>alert</iconName>
@@ -1224,7 +1224,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp1plny0-qta4r9xqb</odePageId>
+          <odePageId>page-mp1rpjdb-huivm5l2o</odePageId>
           <odeBlockId>block-1778361342633-w47wmjsov</odeBlockId>
           <odeIdeviceId>idevice-1778361342631-5h8n1jo1z</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1252,7 +1252,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mp1plny0-qta4r9xqb</odePageId>
+      <odePageId>page-mp1rpjdb-huivm5l2o</odePageId>
       <odeBlockId>block-1778405991016-hwtxfkqy7</odeBlockId>
       <blockName>Temporalización</blockName>
       <iconName>chrono</iconName>
@@ -1281,7 +1281,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp1plny0-qta4r9xqb</odePageId>
+          <odePageId>page-mp1rpjdb-huivm5l2o</odePageId>
           <odeBlockId>block-1778405991016-hwtxfkqy7</odeBlockId>
           <odeIdeviceId>idevice-1778405991012-ylcuhjr96</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1308,10 +1308,82 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
         </odeComponent>
       </odeComponents>
     </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp1rpjdb-huivm5l2o</odePageId>
+      <odeBlockId>block-1778538552858-j5p71sbsy</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1rpjdb-huivm5l2o</odePageId>
+          <odeBlockId>block-1778538552858-j5p71sbsy</odeBlockId>
+          <odeIdeviceId>idevice-1778538552853-fg2icxnp4</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Cuidamos el Planeta Apoyándonos en la Tecnología</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">El Proyecto se centra en el cuidado del Medio Ambiente, usando las Nuevas Tecnologías como herramienta de aprendizaje, comunicación, apoyo visual y dinamización. Haciendo más accesible la comprensión de hábitos sostenibles y conductas respetuosas con el entorno al alumnado.
+Va dirigido a alumnado con nivel de Infantil y primer ciclo de Primaria. Se adaptará a diferentes niveles d.e competencia curricular y capacidad y estilo de comunicación del alumnado. Está elaborado para  trabajar en grupo con ayuda de un adulto
+Materias Implicadas:
+    • Crecimiento en Armonía // Autonomía Personal y Social // Educación en Valores
+    • Descubrimiento y Exploración del Entorno // Conocimiento del Medio Natural, Social y Cultural
+    • Comunicación y Representación de la Realidad // Lengua Castellana (Comunicación Funcional)
+    • Competencia Digital
+Tiene como objetivo que el alumnado adquiera hábitos básicos de cuidado del medio ambiente, utilizando las nuevas tecnologías como recurso motivador y como medio de adaptación visual y auditivo que facilite la comprensión, anticipación y generalización de los aprendizajes.
+El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de energía y agua, y el cuidado del entorno escolar.
+
+</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Mara Font Rivera</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mp1plny1-k1ik2pkte</odePageId>
+  <odePageId>page-mp1rpjdc-vv7pkqnj2</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Créditos</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -1347,7 +1419,7 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mp1plny1-k1ik2pkte</odePageId>
+      <odePageId>page-mp1rpjdc-vv7pkqnj2</odePageId>
       <odeBlockId>block-1778415890700-li8bzd9cm</odeBlockId>
       <blockName>Descargar el archivo fuente</blockName>
       <iconName></iconName>
@@ -1376,9 +1448,93 @@ El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de en
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mp1plny1-k1ik2pkte</odePageId>
+          <odePageId>page-mp1rpjdc-vv7pkqnj2</odePageId>
           <odeBlockId>block-1778415890700-li8bzd9cm</odeBlockId>
           <odeIdeviceId>idevice-1778415890698-vpvwm9tcx</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Cuidamos el Planeta Apoyándonos en la Tecnología</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">El Proyecto se centra en el cuidado del Medio Ambiente, usando las Nuevas Tecnologías como herramienta de aprendizaje, comunicación, apoyo visual y dinamización. Haciendo más accesible la comprensión de hábitos sostenibles y conductas respetuosas con el entorno al alumnado.
+Va dirigido a alumnado con nivel de Infantil y primer ciclo de Primaria. Se adaptará a diferentes niveles d.e competencia curricular y capacidad y estilo de comunicación del alumnado. Está elaborado para  trabajar en grupo con ayuda de un adulto
+Materias Implicadas:
+    • Crecimiento en Armonía // Autonomía Personal y Social // Educación en Valores
+    • Descubrimiento y Exploración del Entorno // Conocimiento del Medio Natural, Social y Cultural
+    • Comunicación y Representación de la Realidad // Lengua Castellana (Comunicación Funcional)
+    • Competencia Digital
+Tiene como objetivo que el alumnado adquiera hábitos básicos de cuidado del medio ambiente, utilizando las nuevas tecnologías como recurso motivador y como medio de adaptación visual y auditivo que facilite la comprensión, anticipación y generalización de los aprendizajes.
+El alumnado trabajará contenidos relacionados con el reciclaje, el ahorro de energía y agua, y el cuidado del entorno escolar.
+
+</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Mara Font Rivera</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp1rpjdc-vv7pkqnj2</odePageId>
+      <odeBlockId>block-1778534907517-p0vzkrp55</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1rpjdc-vv7pkqnj2</odePageId>
+          <odeBlockId>block-1778534907517-p0vzkrp55</odeBlockId>
+          <odeIdeviceId>idevice-1778534907513-jrowhi4ww</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
 <tbody>
